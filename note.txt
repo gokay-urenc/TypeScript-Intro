@@ -1,0 +1,2 @@
+Converting a file to javascript from typescript: tsc {file_path}
+And to watch the current javascript file: nodemon {file_path}
